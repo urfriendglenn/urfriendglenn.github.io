@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: All About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Glenn Lewis, and along with being a DevOps Engineer, I am a husband, a dog-father, and a musician.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Background
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+DevOps Engineer with ten years of technical experience in Linux systems administration, network management, and cloud architecture. Holds a certificate in Cybersecurity from the University of Texas’s Bootcamp. I am skilled in automation (SALT, Ansible, Terraform), scripting in Python and Bash, and corporate compliance. Has implemented ground-up infrastructure monitoring at two companies, implemented open-source host management solution via Proxmox, and has deployed and managed CI/CD via Jenkins and Kubernetes. My strengths in project management and planning and my expertise in Linux administration make me an excellent addition to any technical team.
